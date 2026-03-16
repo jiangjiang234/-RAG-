@@ -1,4 +1,4 @@
-# -RAG-
+基于 RAG 的多文档智能问答系统
 学习rag，为实习做准备
 支持：
 PDF / Markdown / TXT 文档上传
